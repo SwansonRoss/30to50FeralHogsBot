@@ -1,0 +1,5 @@
+# exclude everything except bot.js and readme.md
+/*
+!bot.js
+!README.md
+!.gitignore
